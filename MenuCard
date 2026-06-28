@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #a1{
+           
+            height: 600px;
+        
+        }
+        #b1{
+            
+            height: 550px;
+            width: 550px;
+            float: left;
+            margin: 20px;
+            font-size: 30px;
+        }
+        #b2{
+          
+            height: 700px;
+            width: 500px;
+            float: left;
+            margin: 60px;
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqluBTxnmKkEG9whEqdQFKjKsXl7I_rDnMuLgeSLn-w&s=10");
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+        }
+        #a2{
+            
+            height: 600px;
+        
+        }
+        #c1{
+            
+            height: 700px;
+            width: 500px;
+            float: left;
+            margin: 60px;
+        }
+        #c2{
+           
+            height: 500px;
+            width: 500px;
+            float: left;
+            margin: 60px;
+            font-size: 30px;
+        }
+        #t1{
+            font-size: 20px;
+        }
+         #t2{
+           font-size: 60px;
+           color: orange;
+         }
+         #t11{
+            font-size: 25px;
+         }
+         #t12{
+            font-size: 50px;
+            color: chocolate;
+         }
+         #h1,#h2,#h3,#h4{
+            color: orangered;
+         }
+        
+         #c1{
+            background-image: url("https://www.cookedbyjulie.com/wp-content/uploads/2025/06/chicken-club-sandwiches-one.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+         }
+         body{
+            background-image: url("https://png.pngtree.com/background/20211217/original/pngtree-butterfly-flowers-golden-plants-orange-watercolor-halo-plain-and-elegant-background-picture-image_1592383.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+         }
+    </style>
+</head>
+<body>
+    <div id="a1">
+        <div id="b1">
+            <h1 id="t1"><i>BORCELLE</h1></i>
+            <b id="t11">RESTAURANT</b><br>
+            <b id="t2">RIMBERIO</b><br>
+            <b id="t12">CAFE MENU</b>
+            
+            <ul>
+                <h3 id="h1">BREAKFAST</h3>
+            <li>Danish Pastry.......$25.00</li>
+            <li>Croissant..............$20.00</li>
+            <li>Muffin..................$18.00</li>
+            </ul>
+            <ul>
+                <h3 id="h2">SANDWICHES & WRAPS</h3>
+                <li>Danish Pastry........$25.00</li>
+                <li>Croissant...............$20.00</li>
+                <li>Muffin ..................$18.00</li>
+            </ul>
+        </div>
+        <div id="b2"></div>
+    </div>
+    <div id="a2">
+        <div id="c1"></div>
+        <div id="c2">
+            <ul>
+                <h3 id="h3">COFEE</h3>
+                <li>Cappuccino..........$15.00</li>
+                <li>Macchiato............$12.00</li>
+                <li>Cold Brew ...........$14.00</li>
+            </ul>
+            <ul>
+                <h3 id="h4">COLD BEVERAGES</h3>
+                 <li>Vannila Milkshake...$18.00</li>
+                 <li>Fuite Smoothle.........$16.00</li>
+                 <li>Orange Juice............$15.00</li>
+            </ul>
+        </div>
+    </div>
+    
+</body>
+</html>
